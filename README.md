@@ -18,3 +18,5 @@ Python利用selenium模拟登录淘宝
             "source": """Object.defineProperty(navigator, 'webdriver', {get: () => undefined})""",  
         })
     ```
+
+觉得有用的小伙伴可以给个star呀~ ღ( ´･ᴗ･` )比心
