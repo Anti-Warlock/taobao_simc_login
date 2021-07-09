@@ -1,0 +1,2 @@
+# taobao_simc_login
+Python利用selenium模拟登录淘宝
